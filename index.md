@@ -8,3 +8,9 @@
 if pigs_can_fly is True:
   print("Well dang")
 ```
+
+#### Task list
+- [ ] Complete markdown tutorial
+- [ ] Do GitHub task from part 2 of Homework 1
+- [ ] Submit on Gradescope
+- [ ] Start Homework 2
